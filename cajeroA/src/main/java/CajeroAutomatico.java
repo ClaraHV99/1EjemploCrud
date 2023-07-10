@@ -120,6 +120,3 @@ public class CajeroAutomatico extends JFrame {
         });
     }
 }
-
-
-   
